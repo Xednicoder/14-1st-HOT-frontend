@@ -4,7 +4,10 @@
 # Introduction
 > 오늘의집과 정말 정말 똑같이 클론 코딩 해보자.
 
-<iframe width="560" height="315" src="https://youtu.be/e-y7PCsRhGo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/e-y7PCsRhGo"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 - 목적 : 클론 코딩을 통한 웹 사이트의 이해도를 높이고 실제 사용되는 기술에 대한 이해도를 높인다.
 - 분석 : 오늘의집은 커뮤니티와 스토어를 서로 연결시켜 두었다는 것이 가장 큰 장점이다. 즉, 피드를 구경하다 방을 구성하고 있는 제품들에 대한 정보를 바로 알 수 있고 구매까지 할 수 있다. 
