@@ -1,8 +1,8 @@
 # Team Name: House Of Tomorrow(H.O.T)
 
-<html>
-<video width="640" height="360" src="https://www.youtube.com/watche-y7PCsRhGo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></video>
-</html>
+
+<video width="640" height="360" src="https://www.youtube.com/watche-y7PCsRhGo"></video>
+
 
 # Introduction
 > 오늘의집과 정말 정말 똑같이 클론 코딩 해보자.
