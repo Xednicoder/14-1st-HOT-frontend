@@ -1,7 +1,5 @@
 # Team Name: House Of Tomorrow(H.O.T)
 
-
-<video width="640" height="360" src=""></video>
 [![Watch the video](https://img.youtube.com/vi/e-y7PCsRhGo/maxresdefault.jpg
 )](https://youtu.be/e-y7PCsRhGo)
 
