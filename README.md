@@ -1,7 +1,8 @@
 # Team Name: House Of Tomorrow(H.O.T)
 
 [![Watch the video](https://img.youtube.com/vi/e-y7PCsRhGo/maxresdefault.jpg
-)](https://youtu.be/e-y7PCsRhGo)
+)](https://youtu.be/e-y7CsRhGo)
+클릭해서 영상으로 
 
 # Introduction
 > 오늘의집과 정말 정말 똑같이 클론 코딩 해보자.
